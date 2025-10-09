@@ -15,7 +15,12 @@ Lecture plan:
 * Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
     * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
 
-# ML Bootcamp – Introduction to ML (all students welcome)
+# ML Bootcamp – Introduction to Machine Learning  
+*(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*  
+
+The bootcamp will take place during the **first 4 weeks of the semester**, on **Mondays and Wednesdays at 18:15 (6:15 PM)** in MiM 3043/44/45 building.  
+**Dates:** 6.10, 8.10, 13.10, 15.10, 20.10, 22.10, 27.10, 29.10  
+**Instructors:** Michał Krutul, Jan Małaśnicki, Maciej Stefaniak 
 
 * Lab1&2: [NumPy & Pandas basics](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_1%262_Numpy_Pandas_student_version.ipynb)
 
