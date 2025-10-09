@@ -1,6 +1,6 @@
 # Lectures
 
-[Slides & recordings]()
+[Slides & recordings](https://drive.google.com/drive/folders/10w99lp-8kn8r7G58kPuz2t_Ip6KXAMrc)
 
 Lecture plan:
 * 8.10 MM - backprop
