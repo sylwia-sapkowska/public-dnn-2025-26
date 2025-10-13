@@ -8,12 +8,13 @@ Lecture plan:
 * 22.10 MM - helping SGD
 * 29.11 MM - wrap up
 
+
 # Labs
-
 * Lab1: [linear regression with MSLE, cross-validation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-1-MSLE-student-version.ipynb)
-
 * Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
     * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
+* Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
+
 
 # ML Bootcamp – Introduction to Machine Learning  
 *(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*  
