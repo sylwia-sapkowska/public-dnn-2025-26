@@ -15,7 +15,7 @@ Lecture plan:
 * Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
     * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
 * Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
-
+* Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 
 # ML Bootcamp – Introduction to Machine Learning
 *(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
@@ -60,7 +60,7 @@ The bootcamp will take place during the **first 4 weeks of the semester**, on **
 
 * 50 points for homework,
 * 50 points for the exam,
-* up to 10 *Activity Points* (equivalent to ~+0.5 grade on the final course grade), awarded by lab instructors for extra effort (e.g. solving optional tasks, presenting solved scenarios from previous classes, finding a significantly better solution), up to 2.5 points at a time.
+* up to 10 points for activity – this is (in total) equivalent to ~+0.5 grade on the final course grade. These are awarded by lab instructors for extra effort (e.g. solving optional tasks, presenting solved scenarios from previous classes, finding a significantly better solution), up to 2.5 points at a time.
 
 Total: 110 points possible. Grading scale:
 * ≥ 90 points : 5.0
