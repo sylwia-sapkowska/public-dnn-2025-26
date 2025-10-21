@@ -60,7 +60,7 @@ The bootcamp will take place during the **first 4 weeks of the semester**, on **
 
 * 50 points for homework,
 * 50 points for the exam,
-* up to 10 *Activity Points* (equivalent to ~+0.5 grade on the final course grade), awarded by lab instructors for extra effort (e.g. solving optional tasks, presenting solved scenarios from previous classes, finding a significantly better solution), up to 2.5 points at a time.
+* up to 10 points for activity – this is (in total) equivalent to ~+0.5 grade on the final course grade. These are awarded by lab instructors for extra effort (e.g. solving optional tasks, presenting solved scenarios from previous classes, finding a significantly better solution), up to 2.5 points at a time.
 
 Total: 110 points possible. Grading scale:
 * ≥ 90 points : 5.0
