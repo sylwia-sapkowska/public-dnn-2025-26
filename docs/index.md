@@ -15,6 +15,7 @@ Lecture plan:
 * Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
     * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
 * Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
+  * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE
 * Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 
 # ML Bootcamp – Introduction to Machine Learning
