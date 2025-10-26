@@ -18,6 +18,17 @@ Lecture plan:
   * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE
 * Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 
+
+# Homeworks – themes & deadlines
+
+* [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
+
+* HW1: Backprop, MLP — to be announced by November 3, deadline Tuesday 25 XI, 23:59.
+* HW2: Vision, ConvNets — ~December
+* HW3: Natural language processing, Transformer — ~January
+* HW4: RL — ~January/February
+
+
 # ML Bootcamp – Introduction to Machine Learning
 *(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
 
@@ -35,15 +46,6 @@ The bootcamp will take place during the **first 4 weeks of the semester**, on **
 
 * Lab5: [Experiment Tracking](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_5_experiment_tracking_student_version.ipynb)
 
-
-# Homeworks – themes & deadlines
-
-* [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
-
-* HW1: Backprop, MLP — to be announced, ~November
-* HW2: Vision, ConvNets — ~December
-* HW3: Natural language processing, Transformer — ~January
-* HW4: RL — ~January/February
 
 
 # Old exams
