@@ -17,7 +17,10 @@ Lecture plan:
 * Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
   * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE
 * Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
-
+* Lab5:
+  * [goldfish-to-shark](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5a-goldfish-to-shark-student-version.ipynb) (adversarial attack)
+  * [occlusion](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5b-occlusion-student-version.ipynb) (saliency map)
+  * [dataset exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5c-dataset-exploration-student.ipynb)
 
 # Homeworks – themes & deadlines
 
