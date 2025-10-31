@@ -26,7 +26,8 @@ Lecture plan:
 
 * [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
 
-* HW1: Backprop, MLP — to be announced by November 3, deadline Tuesday 25 XI, 23:59.
+* HW1: [Multitask Learning for Geometric Shape Classification and Counting](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb),
+       [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159962), deadline Tuesday 25 XI, 23:59.
 * HW2: Vision, ConvNets — ~December
 * HW3: Natural language processing, Transformer — ~January
 * HW4: RL — ~January/February
