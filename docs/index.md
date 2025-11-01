@@ -15,7 +15,23 @@ Lecture plan:
 * Lab2: [backpropagation](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-2-backprop-student-version.ipynb)
     * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-pres.pdf) and [leaflet](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/backprop-leaflet.pdf) on backpropagation
 * Lab3: [MNIST again](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
+  * [presentation](https://raw.githubusercontent.com/mim-ml-teaching/public-dnn-2025-26/refs/heads/main/docs/softmax-and-cross-entropy.pdf) on softmax, NLL, CE
 * Lab4: [PyTorch](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
+* Lab5:
+  * [goldfish-to-shark](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5a-goldfish-to-shark-student-version.ipynb) (adversarial attack)
+  * [occlusion](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5b-occlusion-student-version.ipynb) (saliency map)
+  * [dataset exploration](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/DNN-Lab-5c-dataset-exploration-student.ipynb)
+
+# Homeworks – themes & deadlines
+
+* [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
+
+* HW1: [Multitask Learning for Geometric Shape Classification and Counting](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb),
+       [submissions](https://moodle.mimuw.edu.pl/mod/assign/view.php?id=159962), deadline Tuesday 25 XI, 23:59.
+* HW2: Vision, ConvNets — ~December
+* HW3: Natural language processing, Transformer — ~January
+* HW4: RL — ~January/February
+
 
 # ML Bootcamp – Introduction to Machine Learning
 *(open to all students interested in practical ML foundations and with any questions regarding DNN laboratories)*
@@ -34,15 +50,6 @@ The bootcamp will take place during the **first 4 weeks of the semester**, on **
 
 * Lab5: [Experiment Tracking](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/main/docs/Lab_5_experiment_tracking_student_version.ipynb)
 
-
-# Homeworks – themes & deadlines
-
-* [Moodle](https://moodle.mimuw.edu.pl/course/view.php?id=2554) for homework submissions and grading
-
-* HW1: Backprop, MLP — to be announced, ~November
-* HW2: Vision, ConvNets — ~December
-* HW3: Natural language processing, Transformer — ~January
-* HW4: RL — ~January/February
 
 
 # Old exams
