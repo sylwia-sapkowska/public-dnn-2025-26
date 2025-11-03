@@ -1,1 +1,2 @@
-.venv310
+my_env/
+*data/
